@@ -1,0 +1,3998 @@
+[
+    {
+        "id": "Aatrox",
+        "key": "266",
+        "name": "Aatrox",
+        "spells": [
+            {
+                "id": "AatroxQ",
+                "name": "The Darkin Blade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AatroxW",
+                "name": "Infernal Chains",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AatroxE",
+                "name": "Umbral Dash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AatroxR",
+                "name": "World Ender",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ahri",
+        "key": "103",
+        "name": "Ahri",
+        "spells": [
+            {
+                "id": "AhriOrbofDeception",
+                "name": "Orb of Deception",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AhriFoxFire",
+                "name": "Fox-Fire",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AhriSeduce",
+                "name": "Charm",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AhriTumble",
+                "name": "Spirit Rush",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Akali",
+        "key": "84",
+        "name": "Akali",
+        "spells": [
+            {
+                "id": "AkaliQ",
+                "name": "Five Point Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AkaliW",
+                "name": "Twilight Shroud",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AkaliE",
+                "name": "Shuriken Flip",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AkaliR",
+                "name": "Perfect Execution",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Alistar",
+        "key": "12",
+        "name": "Alistar",
+        "spells": [
+            {
+                "id": "Pulverize",
+                "name": "Pulverize",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Headbutt",
+                "name": "Headbutt",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AlistarE",
+                "name": "Trample",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FerociousHowl",
+                "name": "Unbreakable Will",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Amumu",
+        "key": "32",
+        "name": "Amumu",
+        "spells": [
+            {
+                "id": "BandageToss",
+                "name": "Bandage Toss",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AuraofDespair",
+                "name": "Despair",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Tantrum",
+                "name": "Tantrum",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CurseoftheSadMummy",
+                "name": "Curse of the Sad Mummy",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Anivia",
+        "key": "34",
+        "name": "Anivia",
+        "spells": [
+            {
+                "id": "FlashFrost",
+                "name": "Flash Frost",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Crystallize",
+                "name": "Crystallize",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Frostbite",
+                "name": "Frostbite",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GlacialStorm",
+                "name": "Glacial Storm",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Annie",
+        "key": "1",
+        "name": "Annie",
+        "spells": [
+            {
+                "id": "AnnieQ",
+                "name": "Disintegrate",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AnnieW",
+                "name": "Incinerate",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AnnieE",
+                "name": "Molten Shield",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AnnieR",
+                "name": "Summon: Tibbers",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Aphelios",
+        "key": "523",
+        "name": "Aphelios",
+        "spells": [
+            {
+                "id": "ApheliosQ_ClientTooltipWrapper",
+                "name": "Weapon Abilites",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ApheliosW",
+                "name": "Phase",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ApheliosE_ClientTooltipWrapper",
+                "name": "Weapon Queue System",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ApheliosR",
+                "name": "Moonlight Vigil",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ashe",
+        "key": "22",
+        "name": "Ashe",
+        "spells": [
+            {
+                "id": "AsheQ",
+                "name": "Ranger's Focus",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Volley",
+                "name": "Volley",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AsheSpiritOfTheHawk",
+                "name": "Hawkshot",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EnchantedCrystalArrow",
+                "name": "Enchanted Crystal Arrow",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "AurelionSol",
+        "key": "136",
+        "name": "Aurelion Sol",
+        "spells": [
+            {
+                "id": "AurelionSolQ",
+                "name": "Starsurge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AurelionSolW",
+                "name": "Celestial Expansion",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AurelionSolE",
+                "name": "Comet of Legend",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AurelionSolR",
+                "name": "Voice of Light",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Azir",
+        "key": "268",
+        "name": "Azir",
+        "spells": [
+            {
+                "id": "AzirQWrapper",
+                "name": "Conquering Sands",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AzirW",
+                "name": "Arise!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AzirEWrapper",
+                "name": "Shifting Sands",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AzirR",
+                "name": "Emperor's Divide",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Bard",
+        "key": "432",
+        "name": "Bard",
+        "spells": [
+            {
+                "id": "BardQ",
+                "name": "Cosmic Binding",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BardW",
+                "name": "Caretaker's Shrine",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BardE",
+                "name": "Magical Journey",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BardR",
+                "name": "Tempered Fate",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Blitzcrank",
+        "key": "53",
+        "name": "Blitzcrank",
+        "spells": [
+            {
+                "id": "RocketGrab",
+                "name": "Rocket Grab",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Overdrive",
+                "name": "Overdrive",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PowerFist",
+                "name": "Power Fist",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "StaticField",
+                "name": "Static Field",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Brand",
+        "key": "63",
+        "name": "Brand",
+        "spells": [
+            {
+                "id": "BrandQ",
+                "name": "Sear",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BrandW",
+                "name": "Pillar of Flame",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BrandE",
+                "name": "Conflagration",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BrandR",
+                "name": "Pyroclasm",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Braum",
+        "key": "201",
+        "name": "Braum",
+        "spells": [
+            {
+                "id": "BraumQ",
+                "name": "Winter's Bite",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BraumW",
+                "name": "Stand Behind Me",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BraumE",
+                "name": "Unbreakable",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BraumRWrapper",
+                "name": "Glacial Fissure",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Caitlyn",
+        "key": "51",
+        "name": "Caitlyn",
+        "spells": [
+            {
+                "id": "CaitlynPiltoverPeacemaker",
+                "name": "Piltover Peacemaker",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CaitlynYordleTrap",
+                "name": "Yordle Snap Trap",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CaitlynEntrapment",
+                "name": "90 Caliber Net",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CaitlynAceintheHole",
+                "name": "Ace in the Hole",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Camille",
+        "key": "164",
+        "name": "Camille",
+        "spells": [
+            {
+                "id": "CamilleQ",
+                "name": "Precision Protocol",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CamilleW",
+                "name": "Tactical Sweep",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CamilleE",
+                "name": "Hookshot",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CamilleR",
+                "name": "The Hextech Ultimatum",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Cassiopeia",
+        "key": "69",
+        "name": "Cassiopeia",
+        "spells": [
+            {
+                "id": "CassiopeiaQ",
+                "name": "Noxious Blast",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CassiopeiaW",
+                "name": "Miasma",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CassiopeiaE",
+                "name": "Twin Fang",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CassiopeiaR",
+                "name": "Petrifying Gaze",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Chogath",
+        "key": "31",
+        "name": "Cho'Gath",
+        "spells": [
+            {
+                "id": "Rupture",
+                "name": "Rupture",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FeralScream",
+                "name": "Feral Scream",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VorpalSpikes",
+                "name": "Vorpal Spikes",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Feast",
+                "name": "Feast",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Corki",
+        "key": "42",
+        "name": "Corki",
+        "spells": [
+            {
+                "id": "PhosphorusBomb",
+                "name": "Phosphorus Bomb",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CarpetBomb",
+                "name": "Valkyrie",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GGun",
+                "name": "Gatling Gun",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MissileBarrage",
+                "name": "Missile Barrage",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Darius",
+        "key": "122",
+        "name": "Darius",
+        "spells": [
+            {
+                "id": "DariusCleave",
+                "name": "Decimate",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DariusNoxianTacticsONH",
+                "name": "Crippling Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DariusAxeGrabCone",
+                "name": "Apprehend",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DariusExecute",
+                "name": "Noxian Guillotine",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Diana",
+        "key": "131",
+        "name": "Diana",
+        "spells": [
+            {
+                "id": "DianaQ",
+                "name": "Crescent Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DianaOrbs",
+                "name": "Pale Cascade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DianaTeleport",
+                "name": "Lunar Rush",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DianaR",
+                "name": "Moonfall",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Draven",
+        "key": "119",
+        "name": "Draven",
+        "spells": [
+            {
+                "id": "DravenSpinning",
+                "name": "Spinning Axe",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DravenFury",
+                "name": "Blood Rush",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DravenDoubleShot",
+                "name": "Stand Aside",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DravenRCast",
+                "name": "Whirling Death",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "DrMundo",
+        "key": "36",
+        "name": "Dr. Mundo",
+        "spells": [
+            {
+                "id": "InfectedCleaverMissileCast",
+                "name": "Infected Cleaver",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BurningAgony",
+                "name": "Burning Agony",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Masochism",
+                "name": "Masochism",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Sadism",
+                "name": "Sadism",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ekko",
+        "key": "245",
+        "name": "Ekko",
+        "spells": [
+            {
+                "id": "EkkoQ",
+                "name": "Timewinder",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EkkoW",
+                "name": "Parallel Convergence",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EkkoE",
+                "name": "Phase Dive",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EkkoR",
+                "name": "Chronobreak",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Elise",
+        "key": "60",
+        "name": "Elise",
+        "spells": [
+            {
+                "id": "EliseHumanQ",
+                "name": "Neurotoxin / Venomous Bite",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EliseHumanW",
+                "name": "Volatile Spiderling / Skittering Frenzy",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EliseHumanE",
+                "name": "Cocoon / Rappel",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EliseR",
+                "name": "Spider Form",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Evelynn",
+        "key": "28",
+        "name": "Evelynn",
+        "spells": [
+            {
+                "id": "EvelynnQ",
+                "name": "Hate Spike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EvelynnW",
+                "name": "Allure",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EvelynnE",
+                "name": "Whiplash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EvelynnR",
+                "name": "Last Caress",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ezreal",
+        "key": "81",
+        "name": "Ezreal",
+        "spells": [
+            {
+                "id": "EzrealQ",
+                "name": "Mystic Shot",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EzrealW",
+                "name": "Essence Flux",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EzrealE",
+                "name": "Arcane Shift",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EzrealR",
+                "name": "Trueshot Barrage",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Fiddlesticks",
+        "key": "9",
+        "name": "Fiddlesticks",
+        "spells": [
+            {
+                "id": "FiddleSticksQ",
+                "name": "Terrify",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FiddleSticksW",
+                "name": "Bountiful Harvest",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FiddleSticksE",
+                "name": "Reap",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FiddleSticksR",
+                "name": "Crowstorm",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Fiora",
+        "key": "114",
+        "name": "Fiora",
+        "spells": [
+            {
+                "id": "FioraQ",
+                "name": "Lunge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FioraW",
+                "name": "Riposte",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FioraE",
+                "name": "Bladework",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FioraR",
+                "name": "Grand Challenge",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Fizz",
+        "key": "105",
+        "name": "Fizz",
+        "spells": [
+            {
+                "id": "FizzQ",
+                "name": "Urchin Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FizzW",
+                "name": "Seastone Trident",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FizzE",
+                "name": "Playful / Trickster",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "FizzR",
+                "name": "Chum the Waters",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Galio",
+        "key": "3",
+        "name": "Galio",
+        "spells": [
+            {
+                "id": "GalioQ",
+                "name": "Winds of War",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GalioW",
+                "name": "Shield of Durand",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GalioE",
+                "name": "Justice Punch",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GalioR",
+                "name": "Hero's Entrance",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Gangplank",
+        "key": "41",
+        "name": "Gangplank",
+        "spells": [
+            {
+                "id": "GangplankQWrapper",
+                "name": "Parrrley",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GangplankW",
+                "name": "Remove Scurvy",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GangplankE",
+                "name": "Powder Keg",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GangplankR",
+                "name": "Cannon Barrage",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Garen",
+        "key": "86",
+        "name": "Garen",
+        "spells": [
+            {
+                "id": "GarenQ",
+                "name": "Decisive Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GarenW",
+                "name": "Courage",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GarenE",
+                "name": "Judgment",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GarenR",
+                "name": "Demacian Justice",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Gnar",
+        "key": "150",
+        "name": "Gnar",
+        "spells": [
+            {
+                "id": "GnarQ",
+                "name": "Boomerang Throw / Boulder Toss",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GnarW",
+                "name": "Hyper / Wallop",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GnarE",
+                "name": "Hop / Crunch",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GnarR",
+                "name": "GNAR!",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Gragas",
+        "key": "79",
+        "name": "Gragas",
+        "spells": [
+            {
+                "id": "GragasQ",
+                "name": "Barrel Roll",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GragasW",
+                "name": "Drunken Rage",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GragasE",
+                "name": "Body Slam",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GragasR",
+                "name": "Explosive Cask",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Graves",
+        "key": "104",
+        "name": "Graves",
+        "spells": [
+            {
+                "id": "GravesQLineSpell",
+                "name": "End of the Line",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GravesSmokeGrenade",
+                "name": "Smoke Screen",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GravesMove",
+                "name": "Quickdraw",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "GravesChargeShot",
+                "name": "Collateral Damage",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Hecarim",
+        "key": "120",
+        "name": "Hecarim",
+        "spells": [
+            {
+                "id": "HecarimRapidSlash",
+                "name": "Rampage",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "HecarimW",
+                "name": "Spirit of Dread",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "HecarimRamp",
+                "name": "Devastating Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "HecarimUlt",
+                "name": "Onslaught of Shadows",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Heimerdinger",
+        "key": "74",
+        "name": "Heimerdinger",
+        "spells": [
+            {
+                "id": "HeimerdingerQ",
+                "name": "H-28 G Evolution Turret",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "HeimerdingerW",
+                "name": "Hextech Micro-Rockets",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "HeimerdingerE",
+                "name": "CH-2 Electron Storm Grenade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "HeimerdingerR",
+                "name": "UPGRADE!!!",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Illaoi",
+        "key": "420",
+        "name": "Illaoi",
+        "spells": [
+            {
+                "id": "IllaoiQ",
+                "name": "Tentacle Smash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IllaoiW",
+                "name": "Harsh Lesson",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IllaoiE",
+                "name": "Test of Spirit",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IllaoiR",
+                "name": "Leap of Faith",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Irelia",
+        "key": "39",
+        "name": "Irelia",
+        "spells": [
+            {
+                "id": "IreliaQ",
+                "name": "Bladesurge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IreliaW",
+                "name": "Defiant Dance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IreliaE",
+                "name": "Flawless Duet",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IreliaR",
+                "name": "Vanguard's Edge",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ivern",
+        "key": "427",
+        "name": "Ivern",
+        "spells": [
+            {
+                "id": "IvernQ",
+                "name": "Rootcaller",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IvernW",
+                "name": "Brushmaker",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IvernE",
+                "name": "Triggerseed",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "IvernR",
+                "name": "Daisy!",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Janna",
+        "key": "40",
+        "name": "Janna",
+        "spells": [
+            {
+                "id": "HowlingGale",
+                "name": "Howling Gale",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SowTheWind",
+                "name": "Zephyr",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "EyeOfTheStorm",
+                "name": "Eye Of The Storm",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ReapTheWhirlwind",
+                "name": "Monsoon",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "JarvanIV",
+        "key": "59",
+        "name": "Jarvan IV",
+        "spells": [
+            {
+                "id": "JarvanIVDragonStrike",
+                "name": "Dragon Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JarvanIVGoldenAegis",
+                "name": "Golden Aegis",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JarvanIVDemacianStandard",
+                "name": "Demacian Standard",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JarvanIVCataclysm",
+                "name": "Cataclysm",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Jax",
+        "key": "24",
+        "name": "Jax",
+        "spells": [
+            {
+                "id": "JaxLeapStrike",
+                "name": "Leap Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JaxEmpowerTwo",
+                "name": "Empower",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JaxCounterStrike",
+                "name": "Counter Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JaxRelentlessAssault",
+                "name": "Grandmaster's Might",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Jayce",
+        "key": "126",
+        "name": "Jayce",
+        "spells": [
+            {
+                "id": "JayceToTheSkies",
+                "name": "To the Skies! / Shock Blast",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JayceStaticField",
+                "name": "Lightning Field / Hyper Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JayceThunderingBlow",
+                "name": "Thundering Blow / Acceleration Gate",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JayceStanceHtG",
+                "name": "Mercury Cannon / Mercury Hammer",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Jhin",
+        "key": "202",
+        "name": "Jhin",
+        "spells": [
+            {
+                "id": "JhinQ",
+                "name": "Dancing Grenade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JhinW",
+                "name": "Deadly Flourish",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JhinE",
+                "name": "Captive Audience",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JhinR",
+                "name": "Curtain Call",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Jinx",
+        "key": "222",
+        "name": "Jinx",
+        "spells": [
+            {
+                "id": "JinxQ",
+                "name": "Switcheroo!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JinxW",
+                "name": "Zap!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JinxE",
+                "name": "Flame Chompers!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JinxR",
+                "name": "Super Mega Death Rocket!",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kaisa",
+        "key": "145",
+        "name": "Kai'Sa",
+        "spells": [
+            {
+                "id": "KaisaQ",
+                "name": "Icathian Rain",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KaisaW",
+                "name": "Void Seeker",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KaisaE",
+                "name": "Supercharge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KaisaR",
+                "name": "Killer Instinct",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kalista",
+        "key": "429",
+        "name": "Kalista",
+        "spells": [
+            {
+                "id": "KalistaMysticShot",
+                "name": "Pierce",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KalistaW",
+                "name": "Sentinel",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KalistaExpungeWrapper",
+                "name": "Rend",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KalistaRx",
+                "name": "Fate's Call",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Karma",
+        "key": "43",
+        "name": "Karma",
+        "spells": [
+            {
+                "id": "KarmaQ",
+                "name": "Inner Flame",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KarmaSpiritBind",
+                "name": "Focused Resolve",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KarmaSolKimShield",
+                "name": "Inspire",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KarmaMantra",
+                "name": "Mantra",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Karthus",
+        "key": "30",
+        "name": "Karthus",
+        "spells": [
+            {
+                "id": "KarthusLayWasteA1",
+                "name": "Lay Waste",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KarthusWallOfPain",
+                "name": "Wall of Pain",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KarthusDefile",
+                "name": "Defile",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KarthusFallenOne",
+                "name": "Requiem",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kassadin",
+        "key": "38",
+        "name": "Kassadin",
+        "spells": [
+            {
+                "id": "NullLance",
+                "name": "Null Sphere",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NetherBlade",
+                "name": "Nether Blade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ForcePulse",
+                "name": "Force Pulse",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RiftWalk",
+                "name": "Riftwalk",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Katarina",
+        "key": "55",
+        "name": "Katarina",
+        "spells": [
+            {
+                "id": "KatarinaQ",
+                "name": "Bouncing Blade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KatarinaW",
+                "name": "Preparation",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KatarinaEWrapper",
+                "name": "Shunpo",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KatarinaR",
+                "name": "Death Lotus",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kayle",
+        "key": "10",
+        "name": "Kayle",
+        "spells": [
+            {
+                "id": "KayleQ",
+                "name": "Radiant Blast",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KayleW",
+                "name": "Celestial Blessing",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KayleE",
+                "name": "Starfire Spellblade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KayleR",
+                "name": "Divine Judgment",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kayn",
+        "key": "141",
+        "name": "Kayn",
+        "spells": [
+            {
+                "id": "KaynQ",
+                "name": "Reaping Slash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KaynW",
+                "name": "Blade's Reach",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KaynE",
+                "name": "Shadow Step",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KaynR",
+                "name": "Umbral Trespass",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kennen",
+        "key": "85",
+        "name": "Kennen",
+        "spells": [
+            {
+                "id": "KennenShurikenHurlMissile1",
+                "name": "Thundering Shuriken",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KennenBringTheLight",
+                "name": "Electrical Surge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KennenLightningRush",
+                "name": "Lightning Rush",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KennenShurikenStorm",
+                "name": "Slicing Maelstrom",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Khazix",
+        "key": "121",
+        "name": "Kha'Zix",
+        "spells": [
+            {
+                "id": "KhazixQ",
+                "name": "Taste Their Fear",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KhazixW",
+                "name": "Void Spike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KhazixE",
+                "name": "Leap",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KhazixR",
+                "name": "Void Assault",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kindred",
+        "key": "203",
+        "name": "Kindred",
+        "spells": [
+            {
+                "id": "KindredQ",
+                "name": "Dance of Arrows",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KindredW",
+                "name": "Wolf's Frenzy",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KindredEWrapper",
+                "name": "Mounting Dread",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KindredR",
+                "name": "Lamb's Respite",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Kled",
+        "key": "240",
+        "name": "Kled",
+        "spells": [
+            {
+                "id": "KledQ",
+                "name": "Bear Trap on a Rope",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KledW",
+                "name": "Violent Tendencies",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KledE",
+                "name": "Jousting",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KledR",
+                "name": "Chaaaaaaaarge!!!",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "KogMaw",
+        "key": "96",
+        "name": "Kog'Maw",
+        "spells": [
+            {
+                "id": "KogMawQ",
+                "name": "Caustic Spittle",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KogMawBioArcaneBarrage",
+                "name": "Bio-Arcane Barrage",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KogMawVoidOoze",
+                "name": "Void Ooze",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "KogMawLivingArtillery",
+                "name": "Living Artillery",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Leblanc",
+        "key": "7",
+        "name": "LeBlanc",
+        "spells": [
+            {
+                "id": "LeblancQ",
+                "name": "Sigil of Malice",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LeblancW",
+                "name": "Distortion",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LeblancE",
+                "name": "Ethereal Chains",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LeblancR",
+                "name": "Mimic",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "LeeSin",
+        "key": "64",
+        "name": "Lee Sin",
+        "spells": [
+            {
+                "id": "BlindMonkQOne",
+                "name": "Sonic Wave / Resonating Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BlindMonkWOne",
+                "name": "Safeguard / Iron Will",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BlindMonkEOne",
+                "name": "Tempest / Cripple",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "BlindMonkRKick",
+                "name": "Dragon's Rage",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Leona",
+        "key": "89",
+        "name": "Leona",
+        "spells": [
+            {
+                "id": "LeonaShieldOfDaybreak",
+                "name": "Shield of Daybreak",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LeonaSolarBarrier",
+                "name": "Eclipse",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LeonaZenithBlade",
+                "name": "Zenith Blade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LeonaSolarFlare",
+                "name": "Solar Flare",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Lissandra",
+        "key": "127",
+        "name": "Lissandra",
+        "spells": [
+            {
+                "id": "LissandraQ",
+                "name": "Ice Shard",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LissandraW",
+                "name": "Ring of Frost",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LissandraE",
+                "name": "Glacial Path",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LissandraR",
+                "name": "Frozen Tomb",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Lucian",
+        "key": "236",
+        "name": "Lucian",
+        "spells": [
+            {
+                "id": "LucianQ",
+                "name": "Piercing Light",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LucianW",
+                "name": "Ardent Blaze",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LucianE",
+                "name": "Relentless Pursuit",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LucianR",
+                "name": "The Culling",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Lulu",
+        "key": "117",
+        "name": "Lulu",
+        "spells": [
+            {
+                "id": "LuluQ",
+                "name": "Glitterlance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LuluW",
+                "name": "Whimsy",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LuluE",
+                "name": "Help, Pix!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LuluR",
+                "name": "Wild Growth",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Lux",
+        "key": "99",
+        "name": "Lux",
+        "spells": [
+            {
+                "id": "LuxLightBinding",
+                "name": "Light Binding",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LuxPrismaticWave",
+                "name": "Prismatic Barrier",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LuxLightStrikeKugel",
+                "name": "Lucent Singularity",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "LuxMaliceCannon",
+                "name": "Final Spark",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Malphite",
+        "key": "54",
+        "name": "Malphite",
+        "spells": [
+            {
+                "id": "SeismicShard",
+                "name": "Seismic Shard",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Obduracy",
+                "name": "Thunderclap",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Landslide",
+                "name": "Ground Slam",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UFSlash",
+                "name": "Unstoppable Force",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Malzahar",
+        "key": "90",
+        "name": "Malzahar",
+        "spells": [
+            {
+                "id": "MalzaharQ",
+                "name": "Call of the Void",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MalzaharW",
+                "name": "Void Swarm",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MalzaharE",
+                "name": "Malefic Visions",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MalzaharR",
+                "name": "Nether Grasp",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Maokai",
+        "key": "57",
+        "name": "Maokai",
+        "spells": [
+            {
+                "id": "MaokaiQ",
+                "name": "Bramble Smash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MaokaiW",
+                "name": "Twisted Advance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MaokaiE",
+                "name": "Sapling Toss",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MaokaiR",
+                "name": "Nature's Grasp",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "MasterYi",
+        "key": "11",
+        "name": "Master Yi",
+        "spells": [
+            {
+                "id": "AlphaStrike",
+                "name": "Alpha Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Meditate",
+                "name": "Meditate",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "WujuStyle",
+                "name": "Wuju Style",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Highlander",
+                "name": "Highlander",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "MissFortune",
+        "key": "21",
+        "name": "Miss Fortune",
+        "spells": [
+            {
+                "id": "MissFortuneRicochetShot",
+                "name": "Double Up",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MissFortuneViciousStrikes",
+                "name": "Strut",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MissFortuneScattershot",
+                "name": "Make It Rain",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MissFortuneBulletTime",
+                "name": "Bullet Time",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "MonkeyKing",
+        "key": "62",
+        "name": "Wukong",
+        "spells": [
+            {
+                "id": "MonkeyKingDoubleAttack",
+                "name": "Crushing Blow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MonkeyKingDecoy",
+                "name": "Warrior Trickster",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MonkeyKingNimbus",
+                "name": "Nimbus Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MonkeyKingSpinToWin",
+                "name": "Cyclone",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Mordekaiser",
+        "key": "82",
+        "name": "Mordekaiser",
+        "spells": [
+            {
+                "id": "MordekaiserQ",
+                "name": "Obliterate",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MordekaiserW",
+                "name": "Indestructible",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MordekaiserE",
+                "name": "Death's Grasp",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MordekaiserR",
+                "name": "Realm of Death",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Morgana",
+        "key": "25",
+        "name": "Morgana",
+        "spells": [
+            {
+                "id": "MorganaQ",
+                "name": "Dark Binding",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MorganaW",
+                "name": "Tormented Shadow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MorganaE",
+                "name": "Black Shield",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MorganaR",
+                "name": "Soul Shackles",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Nami",
+        "key": "267",
+        "name": "Nami",
+        "spells": [
+            {
+                "id": "NamiQ",
+                "name": "Aqua Prison",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NamiW",
+                "name": "Ebb and Flow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NamiE",
+                "name": "Tidecaller's Blessing",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NamiR",
+                "name": "Tidal Wave",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Nasus",
+        "key": "75",
+        "name": "Nasus",
+        "spells": [
+            {
+                "id": "NasusQ",
+                "name": "Siphoning Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NasusW",
+                "name": "Wither",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NasusE",
+                "name": "Spirit Fire",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NasusR",
+                "name": "Fury of the Sands",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Nautilus",
+        "key": "111",
+        "name": "Nautilus",
+        "spells": [
+            {
+                "id": "NautilusAnchorDrag",
+                "name": "Dredge Line",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NautilusPiercingGaze",
+                "name": "Titan's Wrath",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NautilusSplashZone",
+                "name": "Riptide",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NautilusGrandLine",
+                "name": "Depth Charge",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Neeko",
+        "key": "518",
+        "name": "Neeko",
+        "spells": [
+            {
+                "id": "NeekoQ",
+                "name": "Blooming Burst",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NeekoW",
+                "name": "Shapesplitter",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NeekoE",
+                "name": "Tangle-Barbs",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NeekoR",
+                "name": "Pop Blossom",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Nidalee",
+        "key": "76",
+        "name": "Nidalee",
+        "spells": [
+            {
+                "id": "JavelinToss",
+                "name": "Javelin Toss / Takedown",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Bushwhack",
+                "name": "Bushwhack / Pounce",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PrimalSurge",
+                "name": "Primal Surge / Swipe",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "AspectOfTheCougar",
+                "name": "Aspect Of The Cougar",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Nocturne",
+        "key": "56",
+        "name": "Nocturne",
+        "spells": [
+            {
+                "id": "NocturneDuskbringer",
+                "name": "Duskbringer",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NocturneShroudofDarkness",
+                "name": "Shroud of Darkness",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NocturneUnspeakableHorror",
+                "name": "Unspeakable Horror",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NocturneParanoia",
+                "name": "Paranoia",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Nunu",
+        "key": "20",
+        "name": "Nunu & Willump",
+        "spells": [
+            {
+                "id": "NunuQ",
+                "name": "Consume",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NunuW",
+                "name": "Biggest Snowball Ever!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NunuE",
+                "name": "Snowball Barrage",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "NunuR",
+                "name": "Absolute Zero",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Olaf",
+        "key": "2",
+        "name": "Olaf",
+        "spells": [
+            {
+                "id": "OlafAxeThrowCast",
+                "name": "Undertow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OlafFrenziedStrikes",
+                "name": "Vicious Strikes",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OlafRecklessStrike",
+                "name": "Reckless Swing",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OlafRagnarok",
+                "name": "Ragnarok",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Orianna",
+        "key": "61",
+        "name": "Orianna",
+        "spells": [
+            {
+                "id": "OrianaIzunaCommand",
+                "name": "Command: Attack",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OrianaDissonanceCommand",
+                "name": "Command: Dissonance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OrianaRedactCommand",
+                "name": "Command: Protect",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OrianaDetonateCommand",
+                "name": "Command: Shockwave",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ornn",
+        "key": "516",
+        "name": "Ornn",
+        "spells": [
+            {
+                "id": "OrnnQ",
+                "name": "Volcanic Rupture",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OrnnW",
+                "name": "Bellows Breath",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OrnnE",
+                "name": "Searing Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "OrnnR",
+                "name": "Call of the Forge God",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Pantheon",
+        "key": "80",
+        "name": "Pantheon",
+        "spells": [
+            {
+                "id": "PantheonQ",
+                "name": "Comet Spear",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PantheonW",
+                "name": "Shield Vault",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PantheonE",
+                "name": "Aegis Assault",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PantheonR",
+                "name": "Grand Starfall",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Poppy",
+        "key": "78",
+        "name": "Poppy",
+        "spells": [
+            {
+                "id": "PoppyQ",
+                "name": "Hammer Shock",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PoppyW",
+                "name": "Steadfast Presence",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PoppyE",
+                "name": "Heroic Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PoppyR",
+                "name": "Keeper's Verdict",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Pyke",
+        "key": "555",
+        "name": "Pyke",
+        "spells": [
+            {
+                "id": "PykeQ",
+                "name": "Bone Skewer",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PykeW",
+                "name": "Ghostwater Dive",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PykeE",
+                "name": "Phantom Undertow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PykeR",
+                "name": "Death From Below",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Qiyana",
+        "key": "246",
+        "name": "Qiyana",
+        "spells": [
+            {
+                "id": "QiyanaQ",
+                "name": "Elemental Wrath / Edge of Ixtal",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "QiyanaW",
+                "name": "Terrashape",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "QiyanaE",
+                "name": "Audacity",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "QiyanaR",
+                "name": "Supreme Display of Talent",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Quinn",
+        "key": "133",
+        "name": "Quinn",
+        "spells": [
+            {
+                "id": "QuinnQ",
+                "name": "Blinding Assault",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "QuinnW",
+                "name": "Heightened Senses",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "QuinnE",
+                "name": "Vault",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "QuinnR",
+                "name": "Behind Enemy Lines",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Rakan",
+        "key": "497",
+        "name": "Rakan",
+        "spells": [
+            {
+                "id": "RakanQ",
+                "name": "Gleaming Quill",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RakanW",
+                "name": "Grand Entrance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RakanE",
+                "name": "Battle Dance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RakanR",
+                "name": "The Quickness",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Rammus",
+        "key": "33",
+        "name": "Rammus",
+        "spells": [
+            {
+                "id": "PowerBall",
+                "name": "Powerball",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "DefensiveBallCurl",
+                "name": "Defensive Ball Curl",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PuncturingTaunt",
+                "name": "Frenzying Taunt",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Tremors2",
+                "name": "Tremors",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "RekSai",
+        "key": "421",
+        "name": "Rek'Sai",
+        "spells": [
+            {
+                "id": "RekSaiQ",
+                "name": "Queen's Wrath / Prey Seeker",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RekSaiW",
+                "name": "Burrow / Un-burrow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RekSaiE",
+                "name": "Furious Bite / Tunnel",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RekSaiRWrapper",
+                "name": "Void Rush",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Renekton",
+        "key": "58",
+        "name": "Renekton",
+        "spells": [
+            {
+                "id": "RenektonCleave",
+                "name": "Cull the Meek",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RenektonPreExecute",
+                "name": "Ruthless Predator",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RenektonSliceAndDice",
+                "name": "Slice and Dice",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RenektonReignOfTheTyrant",
+                "name": "Dominus",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Rengar",
+        "key": "107",
+        "name": "Rengar",
+        "spells": [
+            {
+                "id": "RengarQ",
+                "name": "Savagery",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RengarW",
+                "name": "Battle Roar",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RengarE",
+                "name": "Bola Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RengarR",
+                "name": "Thrill of the Hunt",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Riven",
+        "key": "92",
+        "name": "Riven",
+        "spells": [
+            {
+                "id": "RivenTriCleave",
+                "name": "Broken Wings",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RivenMartyr",
+                "name": "Ki Burst",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RivenFeint",
+                "name": "Valor",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RivenFengShuiEngine",
+                "name": "Blade of the Exile",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Rumble",
+        "key": "68",
+        "name": "Rumble",
+        "spells": [
+            {
+                "id": "RumbleFlameThrower",
+                "name": "Flamespitter",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RumbleShield",
+                "name": "Scrap Shield",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RumbleGrenade",
+                "name": "Electro Harpoon",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RumbleCarpetBomb",
+                "name": "The Equalizer",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ryze",
+        "key": "13",
+        "name": "Ryze",
+        "spells": [
+            {
+                "id": "RyzeQWrapper",
+                "name": "Overload",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RyzeW",
+                "name": "Rune Prison",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RyzeE",
+                "name": "Spell Flux",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "RyzeR",
+                "name": "Realm Warp",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Sejuani",
+        "key": "113",
+        "name": "Sejuani",
+        "spells": [
+            {
+                "id": "SejuaniQ",
+                "name": "Arctic Assault",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SejuaniW",
+                "name": "Winter's Wrath",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SejuaniE",
+                "name": "Permafrost",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SejuaniR",
+                "name": "Glacial Prison",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Senna",
+        "key": "235",
+        "name": "Senna",
+        "spells": [
+            {
+                "id": "SennaQ",
+                "name": "Piercing Darkness",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SennaW",
+                "name": "Last Embrace",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SennaE",
+                "name": "Curse of the Black Mist",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SennaR",
+                "name": "Dawning Shadow",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Sett",
+        "key": "875",
+        "name": "Sett",
+        "spells": [
+            {
+                "id": "SettQ",
+                "name": "Knuckle Down",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SettW",
+                "name": "Haymaker",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SettE",
+                "name": "Facebreaker",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SettR",
+                "name": "The Show Stopper",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Shaco",
+        "key": "35",
+        "name": "Shaco",
+        "spells": [
+            {
+                "id": "Deceive",
+                "name": "Deceive",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "JackInTheBox",
+                "name": "Jack In The Box",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TwoShivPoison",
+                "name": "Two-Shiv Poison",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "HallucinateFull",
+                "name": "Hallucinate",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Shen",
+        "key": "98",
+        "name": "Shen",
+        "spells": [
+            {
+                "id": "ShenQ",
+                "name": "Twilight Assault",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ShenW",
+                "name": "Spirit's Refuge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ShenE",
+                "name": "Shadow Dash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ShenR",
+                "name": "Stand United",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Shyvana",
+        "key": "102",
+        "name": "Shyvana",
+        "spells": [
+            {
+                "id": "ShyvanaDoubleAttack",
+                "name": "Twin Bite",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ShyvanaImmolationAura",
+                "name": "Burnout",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ShyvanaFireball",
+                "name": "Flame Breath",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ShyvanaTransformCast",
+                "name": "Dragon's Descent",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Singed",
+        "key": "27",
+        "name": "Singed",
+        "spells": [
+            {
+                "id": "PoisonTrail",
+                "name": "Poison Trail",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MegaAdhesive",
+                "name": "Mega Adhesive",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Fling",
+                "name": "Fling",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "InsanityPotion",
+                "name": "Insanity Potion",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Sion",
+        "key": "14",
+        "name": "Sion",
+        "spells": [
+            {
+                "id": "SionQ",
+                "name": "Decimating Smash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SionW",
+                "name": "Soul Furnace",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SionE",
+                "name": "Roar of the Slayer",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SionR",
+                "name": "Unstoppable Onslaught",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Sivir",
+        "key": "15",
+        "name": "Sivir",
+        "spells": [
+            {
+                "id": "SivirQ",
+                "name": "Boomerang Blade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SivirW",
+                "name": "Ricochet",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SivirE",
+                "name": "Spell Shield",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SivirR",
+                "name": "On The Hunt",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Skarner",
+        "key": "72",
+        "name": "Skarner",
+        "spells": [
+            {
+                "id": "SkarnerVirulentSlash",
+                "name": "Crystal Slash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SkarnerExoskeleton",
+                "name": "Crystalline Exoskeleton",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SkarnerFracture",
+                "name": "Fracture",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SkarnerImpale",
+                "name": "Impale",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Sona",
+        "key": "37",
+        "name": "Sona",
+        "spells": [
+            {
+                "id": "SonaQ",
+                "name": "Hymn of Valor",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SonaW",
+                "name": "Aria of Perseverance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SonaE",
+                "name": "Song of Celerity",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SonaR",
+                "name": "Crescendo",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Soraka",
+        "key": "16",
+        "name": "Soraka",
+        "spells": [
+            {
+                "id": "SorakaQ",
+                "name": "Starcall",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SorakaW",
+                "name": "Astral Infusion",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SorakaE",
+                "name": "Equinox",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SorakaR",
+                "name": "Wish",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Swain",
+        "key": "50",
+        "name": "Swain",
+        "spells": [
+            {
+                "id": "SwainQ",
+                "name": "Death's Hand",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SwainW",
+                "name": "Vision of Empire",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SwainE",
+                "name": "Nevermove",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SwainR",
+                "name": "Demonic Ascension",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Sylas",
+        "key": "517",
+        "name": "Sylas",
+        "spells": [
+            {
+                "id": "SylasQ",
+                "name": "Chain Lash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SylasW",
+                "name": "Kingslayer",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SylasE",
+                "name": "Abscond / Abduct",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SylasR",
+                "name": "Hijack",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Syndra",
+        "key": "134",
+        "name": "Syndra",
+        "spells": [
+            {
+                "id": "SyndraQ",
+                "name": "Dark Sphere",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SyndraW",
+                "name": "Force of Will",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SyndraE",
+                "name": "Scatter the Weak",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "SyndraR",
+                "name": "Unleashed Power",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "TahmKench",
+        "key": "223",
+        "name": "Tahm Kench",
+        "spells": [
+            {
+                "id": "TahmKenchQ",
+                "name": "Tongue Lash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TahmKenchW",
+                "name": "Devour",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TahmKenchE",
+                "name": "Thick Skin",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TahmKenchNewR",
+                "name": "Abyssal Voyage",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Taliyah",
+        "key": "163",
+        "name": "Taliyah",
+        "spells": [
+            {
+                "id": "TaliyahQ",
+                "name": "Threaded Volley",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TaliyahWVC",
+                "name": "Seismic Shove",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TaliyahE",
+                "name": "Unraveled Earth",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TaliyahR",
+                "name": "Weaver's Wall",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Talon",
+        "key": "91",
+        "name": "Talon",
+        "spells": [
+            {
+                "id": "TalonQ",
+                "name": "Noxian Diplomacy",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TalonW",
+                "name": "Rake",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TalonE",
+                "name": "Assassin's Path",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TalonR",
+                "name": "Shadow Assault",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Taric",
+        "key": "44",
+        "name": "Taric",
+        "spells": [
+            {
+                "id": "TaricQ",
+                "name": "Starlight's Touch",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TaricW",
+                "name": "Bastion",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TaricE",
+                "name": "Dazzle",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TaricR",
+                "name": "Cosmic Radiance",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Teemo",
+        "key": "17",
+        "name": "Teemo",
+        "spells": [
+            {
+                "id": "BlindingDart",
+                "name": "Blinding Dart",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "MoveQuick",
+                "name": "Move Quick",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ToxicShot",
+                "name": "Toxic Shot",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TeemoRCast",
+                "name": "Noxious Trap",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Thresh",
+        "key": "412",
+        "name": "Thresh",
+        "spells": [
+            {
+                "id": "ThreshQ",
+                "name": "Death Sentence",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ThreshW",
+                "name": "Dark Passage",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ThreshE",
+                "name": "Flay",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ThreshRPenta",
+                "name": "The Box",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Tristana",
+        "key": "18",
+        "name": "Tristana",
+        "spells": [
+            {
+                "id": "TristanaQ",
+                "name": "Rapid Fire",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TristanaW",
+                "name": "Rocket Jump",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TristanaE",
+                "name": "Explosive Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TristanaR",
+                "name": "Buster Shot",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Trundle",
+        "key": "48",
+        "name": "Trundle",
+        "spells": [
+            {
+                "id": "TrundleTrollSmash",
+                "name": "Chomp",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "trundledesecrate",
+                "name": "Frozen Domain",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TrundleCircle",
+                "name": "Pillar of Ice",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TrundlePain",
+                "name": "Subjugate",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Tryndamere",
+        "key": "23",
+        "name": "Tryndamere",
+        "spells": [
+            {
+                "id": "TryndamereQ",
+                "name": "Bloodlust",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TryndamereW",
+                "name": "Mocking Shout",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TryndamereE",
+                "name": "Spinning Slash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UndyingRage",
+                "name": "Undying Rage",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "TwistedFate",
+        "key": "4",
+        "name": "Twisted Fate",
+        "spells": [
+            {
+                "id": "WildCards",
+                "name": "Wild Cards",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "PickACard",
+                "name": "Pick a Card",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "CardmasterStack",
+                "name": "Stacked Deck",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "Destiny",
+                "name": "Destiny",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Twitch",
+        "key": "29",
+        "name": "Twitch",
+        "spells": [
+            {
+                "id": "TwitchHideInShadows",
+                "name": "Ambush",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TwitchVenomCask",
+                "name": "Venom Cask",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TwitchExpunge",
+                "name": "Contaminate",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TwitchFullAutomatic",
+                "name": "Spray and Pray",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Udyr",
+        "key": "77",
+        "name": "Udyr",
+        "spells": [
+            {
+                "id": "UdyrTigerStance",
+                "name": "Tiger Stance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UdyrTurtleStance",
+                "name": "Turtle Stance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UdyrBearStance",
+                "name": "Bear Stance",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UdyrPhoenixStance",
+                "name": "Phoenix Stance",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Urgot",
+        "key": "6",
+        "name": "Urgot",
+        "spells": [
+            {
+                "id": "UrgotQ",
+                "name": "Corrosive Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UrgotW",
+                "name": "Purge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UrgotE",
+                "name": "Disdain",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "UrgotR",
+                "name": "Fear Beyond Death",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Varus",
+        "key": "110",
+        "name": "Varus",
+        "spells": [
+            {
+                "id": "VarusQ",
+                "name": "Piercing Arrow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VarusW",
+                "name": "Blighted Quiver",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VarusE",
+                "name": "Hail of Arrows",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VarusR",
+                "name": "Chain of Corruption",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Vayne",
+        "key": "67",
+        "name": "Vayne",
+        "spells": [
+            {
+                "id": "VayneTumble",
+                "name": "Tumble",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VayneSilveredBolts",
+                "name": "Silver Bolts",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VayneCondemn",
+                "name": "Condemn",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VayneInquisition",
+                "name": "Final Hour",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Veigar",
+        "key": "45",
+        "name": "Veigar",
+        "spells": [
+            {
+                "id": "VeigarBalefulStrike",
+                "name": "Baleful Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VeigarDarkMatter",
+                "name": "Dark Matter",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VeigarEventHorizon",
+                "name": "Event Horizon",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VeigarR",
+                "name": "Primordial Burst",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Velkoz",
+        "key": "161",
+        "name": "Vel'Koz",
+        "spells": [
+            {
+                "id": "VelkozQ",
+                "name": "Plasma Fission",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VelkozW",
+                "name": "Void Rift",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VelkozE",
+                "name": "Tectonic Disruption",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VelkozR",
+                "name": "Life Form Disintegration Ray",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Vi",
+        "key": "254",
+        "name": "Vi",
+        "spells": [
+            {
+                "id": "ViQ",
+                "name": "Vault Breaker",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ViW",
+                "name": "Denting Blows",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ViE",
+                "name": "Excessive Force",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ViR",
+                "name": "Assault and Battery",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Viktor",
+        "key": "112",
+        "name": "Viktor",
+        "spells": [
+            {
+                "id": "ViktorPowerTransfer",
+                "name": "Siphon Power",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ViktorGravitonField",
+                "name": "Gravity Field",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ViktorDeathRay",
+                "name": "Death Ray",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ViktorChaosStorm",
+                "name": "Chaos Storm",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Vladimir",
+        "key": "8",
+        "name": "Vladimir",
+        "spells": [
+            {
+                "id": "VladimirQ",
+                "name": "Transfusion",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VladimirSanguinePool",
+                "name": "Sanguine Pool",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VladimirE",
+                "name": "Tides of Blood",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VladimirHemoplague",
+                "name": "Hemoplague",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Volibear",
+        "key": "106",
+        "name": "Volibear",
+        "spells": [
+            {
+                "id": "VolibearQ",
+                "name": "Rolling Thunder",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VolibearW",
+                "name": "Frenzy",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VolibearE",
+                "name": "Majestic Roar",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "VolibearR",
+                "name": "Thunder Claws",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Warwick",
+        "key": "19",
+        "name": "Warwick",
+        "spells": [
+            {
+                "id": "WarwickQ",
+                "name": "Jaws of the Beast",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "WarwickW",
+                "name": "Blood Hunt",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "WarwickE",
+                "name": "Primal Howl",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "WarwickR",
+                "name": "Infinite Duress",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Xayah",
+        "key": "498",
+        "name": "Xayah",
+        "spells": [
+            {
+                "id": "XayahQ",
+                "name": "Double Daggers",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XayahW",
+                "name": "Deadly Plumage",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XayahE",
+                "name": "Bladecaller",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XayahR",
+                "name": "Featherstorm",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Xerath",
+        "key": "101",
+        "name": "Xerath",
+        "spells": [
+            {
+                "id": "XerathArcanopulseChargeUp",
+                "name": "Arcanopulse",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XerathArcaneBarrage2",
+                "name": "Eye of Destruction",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XerathMageSpear",
+                "name": "Shocking Orb",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XerathLocusOfPower2",
+                "name": "Rite of the Arcane",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "XinZhao",
+        "key": "5",
+        "name": "Xin Zhao",
+        "spells": [
+            {
+                "id": "XinZhaoQ",
+                "name": "Three Talon Strike",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XinZhaoW",
+                "name": "Wind Becomes Lightning",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XinZhaoE",
+                "name": "Audacious Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "XinZhaoR",
+                "name": "Crescent Guard",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Yasuo",
+        "key": "157",
+        "name": "Yasuo",
+        "spells": [
+            {
+                "id": "YasuoQ1Wrapper",
+                "name": "Steel Tempest",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YasuoW",
+                "name": "Wind Wall",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YasuoE",
+                "name": "Sweeping Blade",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YasuoR",
+                "name": "Last Breath",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Yorick",
+        "key": "83",
+        "name": "Yorick",
+        "spells": [
+            {
+                "id": "YorickQ",
+                "name": "Last Rites",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YorickW",
+                "name": "Dark Procession",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YorickE",
+                "name": "Mourning Mist",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YorickR",
+                "name": "Eulogy of the Isles",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Yuumi",
+        "key": "350",
+        "name": "Yuumi",
+        "spells": [
+            {
+                "id": "YuumiQ",
+                "name": "Prowling Projectile",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YuumiW",
+                "name": "You and Me!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YuumiE",
+                "name": "Zoomies",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "YuumiR",
+                "name": "Final Chapter",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Zac",
+        "key": "154",
+        "name": "Zac",
+        "spells": [
+            {
+                "id": "ZacQ",
+                "name": "Stretching Strikes",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZacW",
+                "name": "Unstable Matter",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZacE",
+                "name": "Elastic Slingshot",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZacR",
+                "name": "Let's Bounce!",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Zed",
+        "key": "238",
+        "name": "Zed",
+        "spells": [
+            {
+                "id": "ZedQ",
+                "name": "Razor Shuriken",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZedW",
+                "name": "Living Shadow",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZedE",
+                "name": "Shadow Slash",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZedR",
+                "name": "Death Mark",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Ziggs",
+        "key": "115",
+        "name": "Ziggs",
+        "spells": [
+            {
+                "id": "ZiggsQ",
+                "name": "Bouncing Bomb",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZiggsW",
+                "name": "Satchel Charge",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZiggsE",
+                "name": "Hexplosive Minefield",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZiggsR",
+                "name": "Mega Inferno Bomb",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Zilean",
+        "key": "26",
+        "name": "Zilean",
+        "spells": [
+            {
+                "id": "ZileanQ",
+                "name": "Time Bomb",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZileanW",
+                "name": "Rewind",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "TimeWarp",
+                "name": "Time Warp",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ChronoShift",
+                "name": "Chronoshift",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Zoe",
+        "key": "142",
+        "name": "Zoe",
+        "spells": [
+            {
+                "id": "ZoeQ",
+                "name": "Paddle Star!",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZoeW",
+                "name": "Spell Thief",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZoeE",
+                "name": "Sleepy Trouble Bubble",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZoeR",
+                "name": "Portal Jump",
+                "canWindwall": "undefinded"
+            }
+        ]
+    },
+    {
+        "id": "Zyra",
+        "key": "143",
+        "name": "Zyra",
+        "spells": [
+            {
+                "id": "ZyraQ",
+                "name": "Deadly Spines",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZyraW",
+                "name": "Rampant Growth",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZyraE",
+                "name": "Grasping Roots",
+                "canWindwall": "undefinded"
+            },
+            {
+                "id": "ZyraR",
+                "name": "Stranglethorns",
+                "canWindwall": "undefinded"
+            }
+        ]
+    }
+]
