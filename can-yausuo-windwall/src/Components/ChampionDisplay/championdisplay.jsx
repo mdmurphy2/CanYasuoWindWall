@@ -9,9 +9,7 @@ export default function Championdisplay(props) {
     const [image, setImage ]= useState(require(`../../LeagueInfo/dragontail-10.10.5/img/champion/tiles/Yasuo_0.jpg`));
 
     useEffect(() => {
-        if(!props.championId) {
-            setImage(require(`../../LeagueInfo/dragontail-10.10.5/img/champion/tiles/Yasuo_0.jpg`))
-        } else {
+        if(props.championId) {
             setImage(require(`../../LeagueInfo/dragontail-10.10.5/img/champion/tiles/${props.championId}_0.jpg`));
         }
     }, [props.championId]);

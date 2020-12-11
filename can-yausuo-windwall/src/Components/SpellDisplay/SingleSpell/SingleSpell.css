@@ -1,0 +1,21 @@
+.list-item {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.flex-item-spell {
+    display: flex;
+    flex-basis: auto;
+    display: inline-block;
+}
+
+.spell-text {
+    align-self: center;
+    font-family: Optimus, serif;
+    color: black;
+    font: bold;
+    font-size: 20px;
+}
