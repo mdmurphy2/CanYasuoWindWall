@@ -3,7 +3,7 @@
 const fs = require('fs');
 
 var allChampions = [];
-fs.readFile('../dragontail-10.10.5/10.10.3224670/data/en_US/championFull.json', 'utf8', (err, jsonString) => {
+fs.readFile('../can-yasuo-windwall/LeagueInfo/dragontail-10.10.5/10.10.3224670/data/en_US/championFull.json', 'utf8', (err, jsonString) => {
     if (err) {
         console.log("File read failed:", err)
         return
@@ -13,6 +13,7 @@ fs.readFile('../dragontail-10.10.5/10.10.3224670/data/en_US/championFull.json', 
     //console.log(champFile.data);
     for(var champ in champFile.data) {
         var champData = champFile.data[champ];
+        champData.WindWallList = newSpell;
         var spellsList = [];
         for(var spell in champData.spells) {
             var newSpell = {
@@ -22,14 +23,16 @@ fs.readFile('../dragontail-10.10.5/10.10.3224670/data/en_US/championFull.json', 
             }
             spellsList.push(newSpell);
         }
-        var newChamp = {
-            "id": champData.id,
-            "key": champData.key,
-            "name": champData.name,
-            "spells": spellsList,
-        }
+        champData.WindWallList = spellsList;
 
-        allChampions.push(newChamp);
+        // var newChamp = {
+        //     "id": champData.id,
+        //     "key": champData.key,
+        //     "name": champData.name,
+        //     "spells": spellsList,
+        // }
+
+        allChampions.push(champData);
 
     }
 

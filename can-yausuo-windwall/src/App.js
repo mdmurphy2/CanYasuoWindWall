@@ -1,7 +1,9 @@
+import './App.css';
+import Main from './Components/MainPage/Main';
 
 function App() {
   return (
-   <h1>Can't windwall</h1>
+   <Main></Main>
   );
 }
 

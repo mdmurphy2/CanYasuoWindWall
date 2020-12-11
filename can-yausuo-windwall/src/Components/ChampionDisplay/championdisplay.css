@@ -1,0 +1,24 @@
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: auto;
+}
+.flex-item {
+    display: flex;
+    flex-basis: auto;
+    display: inline-block;
+}
+
+.vs-text {
+    align-self: center;
+    font-family: Optimus, serif;
+    color: black;
+    font: bold;
+    font-size: 40px;
+}
+
+.champion-image {
+    width: 100px;
+    height: auto;
+}
