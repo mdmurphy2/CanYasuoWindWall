@@ -1,15 +1,37 @@
 .list-item {
     list-style-type: none;
     display: flex;
-    justify-content: center;
-    width: 100%;
-    margin-top: 50px;
+    justify-content: flex-start;
+    width: 20%;
+    margin: auto;
+    margin-top: 15px;
+    position: relative;
 }
-
+.skill-label {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: lightblue;
+    font-size: 9px;
+    font-weight: 700;
+    color: black;
+    pointer-events: none;
+    bottom: 0;
+    left: 50px;
+    border: 2px solid #17172e;
+    box-sizing: content-box;
+    font-family: Optimus, serif;
+}
 .flex-item-spell {
     display: flex;
-    flex-basis: auto;
     display: inline-block;
+    align-self: center;
+    height: 60px;
+    width: auto;
 }
 
 .spell-text {
@@ -18,4 +40,6 @@
     color: black;
     font: bold;
     font-size: 20px;
+    padding-left: 10px;
+    width: max-content;
 }

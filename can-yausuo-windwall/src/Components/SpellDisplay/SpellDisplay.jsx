@@ -20,7 +20,7 @@ export default function SpellDisplay(props) {
      
         for(let i in spellsObject.spellsList) {
             let spell = spellsObject.spellsList[i];
-            tempListObject.push(<SingleSpell key={spellsObject.spellsList[i].id} image={spell.image.full}>Test List with {spellsObject.spellsList[i].name}</SingleSpell>)
+            tempListObject.push(<SingleSpell key={spellsObject.spellsList[i].id} image={spell.image.full} spellName={spell.name} index={i}>Test List with {spellsObject.spellsList[i].name}</SingleSpell>)
             console.log(spellsObject.spellsList[i]);
         }
     
