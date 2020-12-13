@@ -1,11 +1,10 @@
 .list-item {
     list-style-type: none;
     display: flex;
-    justify-content: flex-start;
-    width: 20%;
-    margin: auto;
+    align-items: flex-start;
     margin-top: 15px;
     position: relative;
+    width: 30%;
 }
 .skill-label {
     position: absolute;
@@ -27,19 +26,24 @@
     font-family: Optimus, serif;
 }
 .flex-item-spell {
+    
     display: flex;
-    display: inline-block;
-    align-self: center;
     height: 60px;
     width: auto;
 }
 
 .spell-text {
-    align-self: center;
     font-family: Optimus, serif;
     color: black;
     font: bold;
     font-size: 20px;
     padding-left: 10px;
     width: max-content;
+    flex-grow: 1;
+    margin: auto;
+}
+
+.windwall-icon {
+    display: flex;
+    margin-left: 15px;
 }
